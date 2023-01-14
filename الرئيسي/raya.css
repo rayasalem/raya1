@@ -1,0 +1,19 @@
+body{
+	background:cornsilk;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url(R.jpg);
+	font-family: Arial, Helvetica, sans-serif;
+	height: 100vh;
+	margin: -20px 0 50px;
+    text-align: center;
+    
+}
+h1{
+    background-color:tan;
+	font-size:  uk-scrollspy="cls:uk-animation-fade" ;
+	
+	align-items: center;
+	text-align: center;
+}
